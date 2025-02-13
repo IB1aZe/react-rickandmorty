@@ -1,0 +1,13 @@
+.icn_btn_act {
+    position: fixed;
+    right: 3rem;
+    bottom: 3rem;
+    background-color: #7b7b7b;
+    border-radius: 35px;
+    z-index: 1000;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.9);
+}
+
+.icn_arrow {
+    color: black;
+}
